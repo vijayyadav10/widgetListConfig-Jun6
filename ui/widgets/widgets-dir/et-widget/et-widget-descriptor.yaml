@@ -7,7 +7,7 @@ customUiPath: et-widget.ftl
 configUi:
   customElement: list-content-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
-    - list-content-widget/static/js/2.6fb2b521.chunk.js
-    - list-content-widget/static/js/main.f978d169.chunk.js
+    - list-content-widget/static/js/2.af818354.chunk.js
+    - list-content-widget/static/js/main.adb8add6.chunk.js
     - list-content-widget/static/js/runtime-main.9487466f.js
-    - list-content-widget/static/css/main.6574c640.chunk.css
+    - list-content-widget/static/css/main.6ceb16cf.chunk.css
